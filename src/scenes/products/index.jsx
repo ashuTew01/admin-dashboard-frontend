@@ -14,7 +14,6 @@ import {
 import LinearProgress from '@mui/material/LinearProgress';
 import Header from "components/Header";
 import { useGetProductsQuery } from "state/api";
-import FlexBetween from "components/FlexBetween";
 
 const Product = ({
   _id,
